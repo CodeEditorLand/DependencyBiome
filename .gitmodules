@@ -1,11 +1,11 @@
 [submodule "Cargo"]
 path = Cargo
-url = ssh://git@github.com/CodeEditorLand/FoundationBiomeCargo.git
+url = ssh://git@github.com/CodeEditorLand/DependencyBiomeCargo.git
 
 [submodule "NPM"]
 path = NPM
-url = ssh://git@github.com/CodeEditorLand/FoundationBiomeNPM.git
+url = ssh://git@github.com/CodeEditorLand/DependencyBiomeNPM.git
 
 [submodule "Service"]
 path = Service
-url = ssh://git@github.com/CodeEditorLand/FoundationBiomeService.git
+url = ssh://git@github.com/CodeEditorLand/DependencyBiomeService.git
