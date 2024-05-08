@@ -6,6 +6,6 @@ url = ssh://git@github.com/CodeEditorLand/DependencyBiomeCargo.git
 path = NPM
 url = ssh://git@github.com/CodeEditorLand/DependencyBiomeNPM.git
 
-[submodule "Service"]
-path = Service
-url = ssh://git@github.com/CodeEditorLand/DependencyBiomeService.git
+[submodule "Dependency"]
+path = Dependency
+url = ssh://git@github.com/CodeEditorLand/DependencyBiomeDependency.git
